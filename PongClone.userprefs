@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{31B26854-7F67-3532-CF18-27A92CF9FE35}|">
+  <MonoDevelop.Ide.ItemProperties.PongClone PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RacketPlayer2AI.cs">
+    <Files>
+      <File FileName="Assets/SoundController.cs" Line="17" Column="6" />
+      <File FileName="Assets/RacketPlayer2AI.cs" Line="7" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
